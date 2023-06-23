@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-Hjfdfggt1/Hjfdfggt1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hjfdfggt1/Hjfdfggt1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profil6e.
 You can click the Preview link to take a look at your changes.
 --->
-src ="https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@nimaofficial/DARK-NERO-QR?v=1)
+____________________________________
