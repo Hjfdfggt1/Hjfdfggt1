@@ -10,4 +10,4 @@ Hjfdfggt1/Hjfdfggt1 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ____________________________________
-< image src= "https://i.imgur.com/1rdmfB8.jpeg" >
+< image src= "https://i.imgur.com/1rdmfB8.jpeg">
